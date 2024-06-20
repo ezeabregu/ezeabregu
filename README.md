@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Ezequiel Abregu :wave:</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina :argentina:</h3>
 
 ## Proyects
 ### E-commerce of books **PAGE**
