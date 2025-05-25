@@ -2,14 +2,25 @@
 <h3 align="center">A passionate fullstack developer from Argentina :argentina:</h3>
 
 ## Proyects
+
 ### E-commerce of books **PAGE**
+
 <a href="https://libros-page.vercel.app" targer="_blank"><img src="./page.JPG" style="height: 60%; width:60%;"/></a>
+
 ### E-commerce of fragance **PERFU**
+
 <a href="https://perfu.vercel.app" targer="_blank"><img src="./perfu.JPG" style="height: 60%; width:60%;"/></a>
+
 ### Blog **SIGO CON HAMBRE**
+
 <a href="https://www.sigoconhambre.com.ar" targer="_blank"><img src="./sigoconhambre.JPG" style="height: 60%; width:60%;"/></a>
 
+### Fullstack **VECINOS OPINAN**
+
+<a href="https://www.vecinosopinan.com.ar" targer="_blank"><img src="./vecinosOpinan.JPG" style="height: 60%; width:60%;"/></a>
+
 ## Contact
+
 <p align="left">
 <a href="https://linkedin.com/in/ezequiel-abregu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eze-abregu" height="30" width="40" /></a>
 </p>
