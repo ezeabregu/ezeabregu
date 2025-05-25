@@ -6,8 +6,8 @@
 <a href="https://libros-page.vercel.app" targer="_blank"><img src="./page.JPG" style="height: 60%; width:60%;"/></a>
 ### E-commerce of fragance **PERFU**
 <a href="https://perfu.vercel.app" targer="_blank"><img src="./perfu.JPG" style="height: 60%; width:60%;"/></a>
-### Blog **LA LOCA DE LOS PERFUMES**
-<a href="https://la-loca-de-los-perfumes.vercel.app" targer="_blank"><img src="./lalocadelosperfumes.JPG" style="height: 60%; width:60%;"/></a>
+### Blog **SIGO CON HAMBRE**
+<a href="https://www.sigoconhambre.com.ar" targer="_blank"><img src="./sigoconhambre.JPG" style="height: 60%; width:60%;"/></a>
 
 ## Contact
 <p align="left">
